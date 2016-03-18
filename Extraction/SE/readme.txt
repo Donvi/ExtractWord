@@ -1,0 +1,2 @@
+getWordFromSE采用的是pycurl，curl的python版本，一个第三方库，使用有另外一个第三方依赖
+getWordFromSE2采用的是urllib，采用的是python自带的url解析（据说有效率问题？）

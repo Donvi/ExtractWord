@@ -1,0 +1,25 @@
+[Word Server]
+MAX Thread = 200
+correct rate = .95
+
+[Hbase]
+update time length = 90000
+hbase address = 
+hbase port = 9091
+table name = 
+
+[HDFS]
+client name = 
+user name = 
+password = 
+hadoop user name = 
+hadoop path = 
+hadoop get path = 
+hadoop put path = 
+
+[MAIL]
+alert mail = tangweihan@360.cn
+
+[Search Engine]
+search engine address = 
+available source = 
